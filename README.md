@@ -12,6 +12,6 @@ betterlockscreen -u ~/Pictures/hutao2.jpg set background pic
 
 and
 
-run with betterlockscreen -l dim
+run with betterlockscreen -l dim -> this goes .config/rofi/powermenu/powermenu.sh row number 87
 
 and install paru
