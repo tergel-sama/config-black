@@ -2,4 +2,4 @@
 
 give them chomod +x
 
-extract rofi 
+extract rofi then copy in .config
